@@ -33,8 +33,8 @@ Analyser la performance opérationnelle et construire des KPI afin d’améliore
 - Centralisation des KPI
 - Dashboard interactif
 - Support à la prise de décision
-
 ## Dashboard
+
 ![Dashboard Overview](screenshots/dashboard-overview.png)
 
 ![KPI Analysis](screenshots/kpi-analysis.png)
