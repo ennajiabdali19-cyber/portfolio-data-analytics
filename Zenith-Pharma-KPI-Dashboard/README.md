@@ -35,10 +35,8 @@ Analyser la performance opérationnelle et construire des KPI afin d’améliore
 - Support à la prise de décision
 
 ## Dashboard
-## Dashboard
+![Dashboard Overview](screenshots/dashboard-overview.png)
 
-![Dashboard 1](screenshots/dashboard1%20(1).png)
+![KPI Analysis](screenshots/kpi-analysis.png)
 
-![Dashboard 2](screenshots/dashboard1%20(4).png)
-
-![Dashboard 3](screenshots/dashboard1%20(5).png)
+![Performance Dashboard](screenshots/performance-dashboard.png)
